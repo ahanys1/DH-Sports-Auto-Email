@@ -1,7 +1,6 @@
 # DH-Sports-Auto-Email
 ## This script is now depreciated as it is no longer required.
 
-Note: I am working on making this an application that will require no code editing to run. This is how it is for now.
 ## Setup
 This is only done once.
 ### **Excel File Setup**
